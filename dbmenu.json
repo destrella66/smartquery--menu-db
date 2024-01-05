@@ -1,0 +1,30 @@
+{
+  "menu": {
+    "items": [
+      {
+        "id": 1,
+        "label": "Início",
+        "link": "home",
+        "icon": "po-icon-home"
+      },
+      {
+        "id": 2,
+        "label": "Perfil",
+        "link": "profile",
+        "icon": "po-icon-user"
+      },
+      {
+        "id": 3,
+        "label": "Consulta Personalizada",
+        "link": "custom-query",
+        "icon": "po-icon-clipboard"
+      },
+      {
+        "id": 4,
+        "label": "Outras Ações",
+        "link": "others",
+        "icon": "po-icon-more"
+      }
+    ]
+  }
+}
