@@ -17,7 +17,19 @@
         "id": 3,
         "label": "Consulta Personalizada",
         "link": "custom-query",
-        "icon": "po-icon-clipboard"
+        "icon": "po-icon-clipboard",
+        "subItems": [
+          {
+            "label": "Portal do Admin",
+            "link": "admin",
+            "icon": "po-icon-user"
+          },
+          {
+            "label": "Portal do Cliente",
+            "link": "cliente",
+            "icon": "po-icon-user"
+          }
+        ]
       },
       {
         "id": 4,
