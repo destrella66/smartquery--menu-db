@@ -36,6 +36,29 @@
         "label": "Outras Ações",
         "link": "others",
         "icon": "po-icon-more"
+      },
+      {
+        "id": 5,
+        "label": "Help Desk",
+        "link": "projeto-x",
+        "icon": "po-icon-clipboard",
+        "subItems": [
+          {
+            "label": "DashBoard",
+            "link": "dashboard-x",
+            "icon": "po-icon-user"
+          },
+          {
+            "label": "Clientes",
+            "link": "clientes-x",
+            "icon": "po-icon-user"
+          },
+          {
+            "label": "Chamados",
+            "link": "chamados-x",
+            "icon": "po-icon-user"
+          }
+        ]
       }
     ]
   }
